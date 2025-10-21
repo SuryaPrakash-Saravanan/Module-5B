@@ -26,3 +26,4 @@ print(np.sort(array,axis=0))
 
 
 ## Result
+Thus the python program was created successfully.
